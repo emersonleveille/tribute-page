@@ -1,0 +1,23 @@
+.first-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.second-section {
+    text-align: center;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.right-side img {
+    text-align: center;
+}
+
+.fifth-section {
+    display: flex;
+    flex-direction: row;
+    gap: ;
+}
